@@ -17,6 +17,9 @@ Soon, this site will be providing some IOC lists that can be used for research w
 #### [Blog](blog_index.html)
 Research and Thoughts
 
+#### [Upcoming](/pages/upcoming.html)
+Upcoming Speaking Engagements
+
 #### [Research and Presentations ](/pages/research-and-presentations.html)
 Presentations Given at Conferences Around the World
 
