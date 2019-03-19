@@ -25,6 +25,7 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 FEED_USE_SUMMARY = False
 
 TIMEZONE = 'America/Los_Angeles'
+THEME = 'bootstrap2'
 
 DEFAULT_LANG = u'en'
 
